@@ -70,8 +70,8 @@ importers:
         specifier: 5.6.2
         version: 5.6.2
       wretch:
-        specifier: 2.6.0
-        version: 2.6.0
+        specifier: 2.11.1
+        version: 2.11.1
 
 packages:
 
@@ -5398,8 +5398,8 @@ packages:
   wrappy@1.0.2:
     resolution: {integrity: sha512-l4Sp/DRseor9wL6EvV2+TuQn63dMkPjZ/sp9XkghTEbV9KlPS1xUsZ3u7/IQO4wxtcFB4bgpQPRcR3QCvezPcQ==}
 
-  wretch@2.6.0:
-    resolution: {integrity: sha512-7A4TFHSX+cpxxO6Hd4f0ZE9f8wAgO9wRqX3JeOAtHlJy+kdYP+oPjkF1LYmnTSiTMhODR2YWOdMEc4hCCXEw2w==}
+  wretch@2.11.1:
+    resolution: {integrity: sha512-rJejp30zE8Igs4Mvo4pxXaiOKdSIGYLxyVaY+jZTlAMfQyi/hZsDwMRa9R09N0iS9Q8cLvplKfHwwyBv6XRWsg==}
     engines: {node: '>=14'}
 
   write-file-atomic@4.0.2:
@@ -11819,7 +11819,7 @@ snapshots:
 
   wrappy@1.0.2: {}
 
-  wretch@2.6.0: {}
+  wretch@2.11.1: {}
 
   write-file-atomic@4.0.2:
     dependencies:

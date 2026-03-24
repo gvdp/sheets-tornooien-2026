@@ -44,6 +44,6 @@
     "start-server-and-test": "2.0.0",
     "ts-node": "10.9.2",
     "typescript": "5.6.2",
-    "wretch": "2.6.0"
+    "wretch": "2.11.1"
   }
 }
