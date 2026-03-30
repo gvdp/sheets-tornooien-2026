@@ -41,7 +41,7 @@
     "netlify-cli": "24.4.0",
     "prettier": "3.8.1",
     "source-map-support": "0.5.21",
-    "start-server-and-test": "2.0.0",
+    "start-server-and-test": "3.0.0",
     "ts-node": "10.9.2",
     "typescript": "5.9.3",
     "wretch": "2.11.1"
