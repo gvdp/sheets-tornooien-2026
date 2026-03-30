@@ -55,8 +55,8 @@ importers:
         specifier: 24.4.0
         version: 24.4.0(@types/node@24.12.0)(picomatch@4.0.3)
       prettier:
-        specifier: 3.0.3
-        version: 3.0.3
+        specifier: 3.8.1
+        version: 3.8.1
       source-map-support:
         specifier: 0.5.21
         version: 0.5.21
@@ -4267,8 +4267,8 @@ packages:
     resolution: {integrity: sha512-QCYG84SgGyGzqJ/vlMsxeXd/pgL/I94ixdNFyh1PusWmTCyVfPJjZ1K1jvHtsbfnXQs2TSkEP2fR7QiMZAnKFQ==}
     engines: {node: '>= 0.6'}
 
-  prettier@3.0.3:
-    resolution: {integrity: sha512-L/4pUDMxcNa8R/EthV08Zt42WBO4h1rarVtK0K+QJG0X187OLo7l699jWw0GKuwzkPQ//jMFA/8Xm6Fh3J/DAg==}
+  prettier@3.8.1:
+    resolution: {integrity: sha512-UOnG6LftzbdaHZcKoPFtOcCKztrQ57WkHDeRD9t/PTQtmT0NHSeWWepj6pS0z/N7+08BHFDQVUrfmfMRcZwbMg==}
     engines: {node: '>=14'}
     hasBin: true
 
@@ -10407,7 +10407,7 @@ snapshots:
 
   precond@0.2.3: {}
 
-  prettier@3.0.3: {}
+  prettier@3.8.1: {}
 
   pretty-format@29.7.0:
     dependencies:
