@@ -12,6 +12,11 @@ export const SHEET_IDS: Record<string, { name: string; sheetID: string }> = {
   U15: { name: 'U15', sheetID: '1yjnjnM_U29Hiws4qaw4sF79NKoQ37XRkHspleT0yhBM' },
   U17: { name: 'U17', sheetID: '1eT3bv2xYbgNMQ_6Pxj3uiKeH9irguPyGYJ7rcb_ZmjY' },
   U19: { name: 'U19', sheetID: '136IPhLN4VuDZjt9RSzXMS1FHzwdP7UGLraBBcaQApVY' },
+  U9M: { name: 'U9M', sheetID: '1_1irgX8Lgv2TSpHhXwfPvtQjwsTty5LC5-DCe2E7F-E' },
+  U11M: { name: 'U11M', sheetID: '1WJYjUPLgt_o2VZ-3WXeN-_YYUf6_aNyB5bfAu4kfXKc' },
+  U13M: { name: 'U13M', sheetID: '1mc4_NakIVxidijLlL3cAQYVudGohFHkMSwAcr6l-a9w' },
+  U16M: { name: 'U16M', sheetID: '110JfXxyPQyyGNlNHR7qSxKws8e1XuH0cNfYtIqAfujo' },
+  ZES: { name: '6V6', sheetID: '1kvjTfJY7N67TXZgO-NJBqCK3sG996L8Ym2MU0_wLxvw' },
   TEST: {
     name: 'TEST',
     sheetID: '1yZhUeE23mL1dlikzuPfx6QNSI24G0BmgPU65wdiJMNI',
