@@ -17,7 +17,7 @@ export const SHEET_IDS: Record<string, { name: string; sheetID: string }> = {
   U13M: { name: 'U13M', sheetID: '1mc4_NakIVxidijLlL3cAQYVudGohFHkMSwAcr6l-a9w' },
   U16M: { name: 'U16M', sheetID: '110JfXxyPQyyGNlNHR7qSxKws8e1XuH0cNfYtIqAfujo' },
   ZES: { name: '6V6', sheetID: '1kvjTfJY7N67TXZgO-NJBqCK3sG996L8Ym2MU0_wLxvw' },
-  ALL: { name: 'ALL', sheetID: '1XyobbmtXZCs-zsB1E-qdKbc80v4rtOR4' },
+  ALL: { name: 'ALL', sheetID: '1i1Ryp1nB_i8yzGUtVsiizlQixOW_JqhCZ-RtJhzxcyc' },
   TEST: {
     name: 'TEST',
     sheetID: '1yZhUeE23mL1dlikzuPfx6QNSI24G0BmgPU65wdiJMNI',
